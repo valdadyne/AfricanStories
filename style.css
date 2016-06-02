@@ -1,0 +1,16 @@
+#page-container {
+    width: 760px;
+    margin: auto;
+}
+#header {
+	background: blue;
+	height: 150px;
+}
+#sidenavbar {
+  float: left;
+  width: 20%;
+}
+#content {
+  float: right ;
+  width: 80% ;
+}
