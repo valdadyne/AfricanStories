@@ -1,20 +1,25 @@
 #page-container {
     	width: 760px;
     	margin: auto;
+    	text-align: center;
 }
 #maincontent {
 	width: 760px;
 	margin: auto;
+	text-align: center;
 }
 #header {
-	background: blue;
-	height: 150px;
+	background: black;
+	height: 70px;
+	text-align: center;
 }
 #sidenavbar {
   	float: left;
   	width: 20%;
+  	text-align: left;
 }
 #story {
   	float: right ;
   	width: 80% ;
+  	text-align: center;
 }
