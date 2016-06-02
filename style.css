@@ -1,16 +1,20 @@
 #page-container {
-    width: 760px;
-    margin: auto;
+    	width: 760px;
+    	margin: auto;
+}
+#maincontent {
+	width: 760px;
+	margin: auto;
 }
 #header {
 	background: blue;
 	height: 150px;
 }
 #sidenavbar {
-  float: left;
-  width: 20%;
+  	float: left;
+  	width: 20%;
 }
-#content {
-  float: right ;
-  width: 80% ;
+#story {
+  	float: right ;
+  	width: 80% ;
 }
