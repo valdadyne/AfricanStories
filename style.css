@@ -16,10 +16,8 @@
 #sidenavbar {
   	float: left;
   	width: 280px;
-  	text-align: left;
 }
 #story {
   	float: right ;
   	width: 280px% ;
-  	text-align: center;
 }
