@@ -9,18 +9,17 @@
 #maincontent {
 	width: 760px;
 	margin: auto;
-	text-align: center;
 }
 #header {
 	height: 70px;
-	color: black
+	background: black
 }
 #sidenavbar {
-	color: black;
+	background: black
   	float: left;
   	width: 230px;
   	border: 3px solid black;
-  	text-decoration: none
+  	
 }
 #story {
   	margin-left: 236px;
@@ -33,6 +32,7 @@ h1 {
 }
 h2{
 	text-align:left;
+	text-decoration: none
 	font-family: 'Crimson Text', serif;
 }
 h3{
