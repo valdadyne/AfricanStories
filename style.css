@@ -11,8 +11,8 @@
 	margin: auto;
 }
 #header {
-	height: 70px;
 	background: black
+	height: 70px;
 }
 #sidenavbar {
 	background: black
@@ -28,7 +28,6 @@
 h1 {
 	text-align:center;
 	font-family: 'Bitter', serif;
-	color:white;
 }
 h2{
 	text-align:left;
