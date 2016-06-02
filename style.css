@@ -9,6 +9,7 @@
 #maincontent {
 	width: 760px;
 	margin: auto;
+	text-align:center;
 }
 #header {
 	background: black
