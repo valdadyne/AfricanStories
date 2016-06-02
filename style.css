@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Bitter:700);
 @import url(https://fonts.googleapis.com/css?family=Crimson+Text:600);
-@import url(https://fonts.googleapis.com/css?family=Vollkorn:400italic);
+@import url(https://fonts.googleapis.com/css?family=BenchNine);
 
 #page-container {
     	width: 760px;
@@ -35,5 +35,5 @@ h2{
 }
 h3{
 	text-align:center;
-	font-family: 'Vollkorn', serif;
+	font-family: 'BenchNine', sans-serif;
 }
