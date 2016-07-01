@@ -1,0 +1,27 @@
+@import 'https://fonts.googleapis.com/css?family=Cormorant+Infant|El+Messiri';
+
+h2{font-family: 'El Messiri', sans-serif;}
+body{font-family: 'Cormorant Infant', serif;}
+
+.wrapper{padding-left: 15%;padding-right:15%; width:70%;}
+
+.heading{text-align: center;}
+.menu ul{
+  list-style-type: none;
+  margin: 0;padding: 0;
+  overflow: hidden;}
+.menu li a:hover {
+  background-color: #222;
+  color:orange;}
+.menu a {
+  color: #fff;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  padding: 14px 6px;}
+.menu .active {
+  color: orange;
+  background-color: #222;}
+
+.story {
+  color: #111;opacity: 0.99;}
